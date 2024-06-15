@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📈 Looking to learn **Selenium, Pandas, PowerShell**
+- 📈 Looking to learn **Docker, Selenium, Pandas, PowerShell**
 
 - 💬 Ask me about **UiPath**
 
