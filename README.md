@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Twitter (X) weather bot**
 
-- 🌱 I’m currently learning **Pandas**
+- 🌱 I’m currently learning **Pandas**, **Scapy***
 
-- 📈 Looking to learn **Selenium, Pandas, PowerShell**
+- 📈 Looking to learn **Selenium, Pandas, Scapy, PowerShell**
 
 - 💬 Ask me about **UiPath**
 
