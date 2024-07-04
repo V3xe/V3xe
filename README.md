@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm V3xe</h1>
 <h3 align="center">RPA developer</h3>
 
-- 🔭 I’m currently working on **Twitter (X) weather bot**
+- 🔭 I’m currently working on **Network management scripts**
 
-- 🌱 I’m currently learning **Pandas**, **Scapy***
+- 🌱 I’m currently learning **Pandas**, **Scapy**
 
 - 📈 Looking to learn **Selenium, Pandas, Scapy, PowerShell**
 
