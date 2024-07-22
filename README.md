@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Network management scripts**
 
-- 🌱 I’m currently learning **Pandas**, **Scapy**
+- 🌱 I’m currently learning **Scapy**
 
 - 📈 Looking to learn **Selenium, Pandas, Scapy, PowerShell**
 
