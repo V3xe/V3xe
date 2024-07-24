@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scapy**
 
-- 📈 Looking to learn **Selenium, Pandas, Scapy, PowerShell**
+- 📈 Looking to learn **Selenium, Pandas, PowerShell,Rust**
 
 - 💬 Ask me about **UiPath**
 
