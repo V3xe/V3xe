@@ -21,7 +21,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/uipath.svg" alt="UiPath" width="40" height="40"/> 
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" alt="Docker" width="40" height="40"/> 
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" alt="Docker" width="40" height="40"/> 
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" alt="Docker" width="40" height="40"/>  
 
 </p>
