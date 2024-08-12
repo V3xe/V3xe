@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm V3xe</h1>
 <h3 align="center">RPA developer</h3>
 
-- 🔭 I’m currently working on **Network management scripts**
+- 🔭 I’m currently working on **GUI apps**
 
-- 🌱 I’m currently learning **Scapy**
+- 🌱 I’m currently learning **Tkiner**
 
-- 📈 Looking to learn **Selenium, Pandas, PowerShell,Rust**
+- 📈 Looking to learn **GO lang, Flask**
 
 - 💬 Ask me about **UiPath**
 
