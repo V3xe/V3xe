@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V3xe</h1>
+<h1 align="center">Hi 👋, I'm V3x</h1>
 <h3 align="center">RPA developer</h3>
 
 - 🌱 I’m currently learning **Python, MicroPython**
